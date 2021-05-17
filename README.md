@@ -1,3 +1,3 @@
-I created a my resume using only html
+I created a resume using only html
 #Simple resume
 # My-Resume
